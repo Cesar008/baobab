@@ -10,3 +10,8 @@ Liste des clients
 Creation automatique des comptes Epargne et courant
 Retrait dans un compte
 Versement dans un compte
+
+## Fichier executable
+
+le fichier se trouve dans baobab\dist
+-> baobab.jar
